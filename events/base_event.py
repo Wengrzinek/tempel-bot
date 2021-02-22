@@ -1,4 +1,4 @@
-# Base event class
+# Base event class from template
 # Do not modify!
 class BaseEvent:
 

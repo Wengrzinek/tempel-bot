@@ -1,3 +1,4 @@
+# from template
 from commands.base_command  import BaseCommand
 
 # This, in addition to tweaking __all__ on commands/__init__.py, 

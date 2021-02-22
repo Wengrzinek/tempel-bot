@@ -1,3 +1,4 @@
+# from template
 import os
 
 # The prefix that will be used to parse commands.
@@ -5,7 +6,7 @@ import os
 COMMAND_PREFIX = "!"
 
 # The bot token. Keep this secret!
-BOT_TOKEN = "Get this from https://discord.com/developers/applications"
+BOT_TOKEN = "ODEwNjA2ODIzMzA3NzM5MTc2.YCmGbw.vnJ76yOyT7lb8-Mf2KbptJBJSow"
 
 # The now playing game. Set this to anything false-y ("", None) to disable it
 NOW_PLAYING = COMMAND_PREFIX + "commands"
